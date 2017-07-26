@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnCTIViewer</string>
+    <string name="buttonStartService">サービススタート</string>
+    <string name="buttonStopService">サービスストップ</string>
+</resources>
